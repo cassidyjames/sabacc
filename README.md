@@ -26,5 +26,5 @@ Mix and match your decks for Kessel Sabacc! You want two highly-contrasting deck
 
 Back | Spike | Sylop | Key
 ---- | ----- | ----- | ---
-![](cards/pilot/sabacc_Light back.png) | ![](cards/pilot/sabacc_Light 1[face,3].png) | ![](cards/pilot/sabacc_Light sylop[face,1].png) | ![](cards/pilot/sabacc_Light key[face,1].png)
-![](cards/sorcerer/sabacc_Dark back.png) | ![](cards/sorcerer/sabacc_Dark 1[face,3].png) | ![](cards/sorcerer/sabacc_Dark sylop[face,1].png) | ![](cards/sorcerer/sabacc_Dark key[face,1].png)
+![](cards/pilot/sabacc_Light%20back.png) | ![](cards/pilot/sabacc_Light%201[face,3].png) | ![](cards/pilot/sabacc_Light%20sylop[face,1].png) | ![](cards/pilot/sabacc_Light%20key[face,1].png)
+![](cards/sorcerer/sabacc_Dark%20back.png) | ![](cards/sorcerer/sabacc_Dark%201[face,3].png) | ![](cards/sorcerer/sabacc_Dark%20sylop[face,1].png) | ![](cards/sorcerer/sabacc_Dark%20key[face,1].png)
