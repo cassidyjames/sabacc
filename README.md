@@ -24,7 +24,15 @@ Cassidy’s preferred version is Kessel Sabacc: it forgoes betting rounds and si
 
 Mix and match your decks for Kessel Sabacc! You want two highly-contrasting decks for the best experience.
 
-Back | Spike | Sylop | Key
----- | ----- | ----- | ---
-![](cards/pilot/sabacc_Light%20back.png) | ![](cards/pilot/sabacc_Light%201[face,3].png) | ![](cards/pilot/sabacc_Light%20sylop[face,1].png) | ![](cards/pilot/sabacc_Light%20key[face,1].png)
-![](cards/sorcerer/sabacc_Dark%20back.png) | ![](cards/sorcerer/sabacc_Dark%201[face,3].png) | ![](cards/sorcerer/sabacc_Dark%20sylop[face,1].png) | ![](cards/sorcerer/sabacc_Dark%20key[face,1].png)
+Pilot | Sorcerer
+----- | -----
+![](cards/pilot/sabacc_Light%20back.png) | ![](cards/sorcerer/sabacc_Dark%20back.png)
+![](cards/pilot/sabacc_Light%20sylop[face,1].png) | ![](cards/sorcerer/sabacc_Dark%20sylop[face,1].png)
+![](cards/pilot/sabacc_Light%201[face,3].png) | ![](cards/sorcerer/sabacc_Dark%201[face,3].png)
+![](cards/pilot/sabacc_Light%202[face,3].png) | ![](cards/sorcerer/sabacc_Dark%202[face,3].png)
+![](cards/pilot/sabacc_Light%203[face,3].png) | ![](cards/sorcerer/sabacc_Dark%203[face,3].png)
+![](cards/pilot/sabacc_Light%204[face,3].png) | ![](cards/sorcerer/sabacc_Dark%204[face,3].png)
+![](cards/pilot/sabacc_Light%205[face,3].png) | ![](cards/sorcerer/sabacc_Dark%205[face,3].png)
+![](cards/pilot/sabacc_Light%206[face,3].png) | ![](cards/sorcerer/sabacc_Dark%206[face,3].png)
+![](cards/pilot/sabacc_Light%20imposter[face,3].png) | ![](cards/sorcerer/sabacc_Dark%20imposter[face,3].png)
+![](cards/pilot/sabacc_Light%20key[face,1].png) | ![](cards/sorcerer/sabacc_Dark%20key[face,1].png)
