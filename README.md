@@ -12,9 +12,13 @@ Sabacc is a card and dice centered on making the perfect hand—or at least one 
 - Kessel Sabacc
 - Coruscant Shift
 
-Cassidy’s preferred version is Kessel Sabacc: it forgoes betting rounds and simplifies hand-building to a pair of cards, making for a game that moves more quickly and is easier to pick up—yet is deceptively difficult to master.
+Cassidy’s preferred version is Kessel Sabacc: it forgoes betting rounds and simplifies hand-building to a pair of cards, making for a game that moves more quickly and is easier to pick up—yet is deceptively difficult to master. With flexibility around shift tokens (including whether or not to play with them at all) and the number of tax chips, the game offers enough variation to cater to different audiences, skill levels, and gameplay durations.
 
-[Read more at Wookieepedia](https://starwars.fandom.com/wiki/Sabacc)
+### Learn More
+
+- [Wookieepedia](https://starwars.fandom.com/wiki/Sabacc): history and references
+- [Games of the Galaxy](https://www.gamesofthegalaxy.com/sabacc-games): detailed rules and guides
+- [Hyperspace Props](https://hyperspaceprops.com/sabacc/): rules, decks, dice, chips, and tokens
 
 ## Designs
 
